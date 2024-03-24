@@ -144,6 +144,7 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
+![alt text](place/mapapp/static/Nellore.png)
 
 ![alt text](<place/mapapp/static/1 (2).png>)
 
